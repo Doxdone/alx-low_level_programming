@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $CFILE -s 2-assembler.s
+gcc -S $CFILE -s 2-assembler.s
