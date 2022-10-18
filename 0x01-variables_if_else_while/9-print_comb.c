@@ -4,6 +4,7 @@
  * main - prints all combination of single digits
  * Return: Always 0
  */
+
 int main(void)
 {
 	int n;
@@ -19,5 +20,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-
 }
